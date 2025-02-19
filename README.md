@@ -12,13 +12,13 @@
   #### :raising_hand: I am a System Engineer from South Korea.<br/>
   #### :mortar_board: Majored Computer Engineering, Myongji University(MJU)
 
-  
-  
+<!--  
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookieboba)](https://github.com/rookieboba/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rookieboba)](https://github.com/rookieboba/github-readme-stats)
-  
+  -->
+
 </div>
 
 💻 OS
